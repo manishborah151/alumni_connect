@@ -1,4 +1,5 @@
 🎓 Alumni Connect – BIT Alumni Portal (Mockup)
+demo:https://manishborah151.github.io/alumni_connect/
 Alumni Connect is a full-stack mockup web application designed as a prototype of the official alumni portal for Birla Institute of Technology. This project provides a platform for alumni to connect, network, and stay updated with institute news and events.
 
 This project demonstrates the integration of modern frontend technologies with a traditional backend stack.
